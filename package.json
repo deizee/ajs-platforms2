@@ -1,0 +1,22 @@
+{
+  "name": "ajs-platforms2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deizee/ajs-platforms2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deizee/ajs-platforms2/issues"
+  },
+  "homepage": "https://github.com/deizee/ajs-platforms2#readme",
+  "dependencies": {
+    "@deizee/ajs-platforms": "^1.0.0"
+  }
+}
